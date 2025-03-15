@@ -32,6 +32,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/wool-great-coat/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/wool-coat/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/wool-coat-part-4/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/wool-coats-are-cool/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
